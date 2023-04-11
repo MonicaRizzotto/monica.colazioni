@@ -1,0 +1,178 @@
+body{
+    background-color: #F7F4EF;
+}
+
+
+
+header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        max-width: 100%;
+}
+header img{
+    height: 80px;
+    align-content: ;
+    max-width: 100%;
+}
+header nav ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+header a{
+    color: black;
+    font-size: 15px;
+    max-width: 100%;
+}
+
+section.hero { text-align: center;}
+
+    section.hero hr {
+        border-top-width: 3px;
+        border-top-color:black
+        max-width: 100%;
+    }
+
+    section.hero h1{
+        margin: 0;
+        padding: 40px 10px;
+        font-size: 50px;
+        color: rgba(0, 0, 0, 0.9);
+        text-align: center;
+        max-width: 100%;
+    }
+
+    section.hero p{
+        font-size: 30px;
+        padding-left: 6%;
+        padding-right: 6%;
+    }
+div.card1{ 
+    background-color: #C4AE89;
+    height: 560px
+
+
+}
+ div.card1 img{
+    padding: 30px;
+    max-width: 1200px;
+    float: left;
+    height: 500px
+
+       
+       
+    }
+    
+div.card1 h2{
+    padding-top: 60px;
+    padding-left: 50%;
+    font-size: 50px;
+    }
+
+div.card1 p{
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-left: 50%;
+    font-size: 35px;
+}
+div.card2{
+    padding-bottom: 40px;
+}
+div.card2 h2{
+    padding-top: 60px;
+    padding-left: 50%;
+    padding-bottom: 60px;
+    font-size: 50px;
+    }
+
+div.card2 p{
+
+    padding-right: 60px;
+    padding-left: 50%;
+    font-size: 35px;
+}
+
+div.card2 img{
+    padding: 30px;
+    padding-left: 80px;
+    max-width: 1200px;
+    float: left;
+    height: 500px
+}
+
+div.card3{
+    margin: 80px;
+}
+div.card3 h2{
+    padding-top: 100px;
+    font-size: 50px;
+    }
+
+div.card3 p{
+    padding-right: 50%;
+    padding-top: 60px;
+    font-size: 35px;
+}
+
+div.card3 img{
+    margin-top: 60px;
+
+    max-width: 1200px;
+    float: right;
+    height: 500px
+}
+
+div.card4{
+    margin: 80px;
+    padding-top: 60px;
+}
+div.card4 h2{
+    padding-left: 50%;
+    padding-top: 60px;
+    font-size: 50px;
+    }
+
+div.card4 p{
+    padding-left: 50%;
+    padding-top: 60px;
+    font-size: 35px;
+}
+
+div.card4 img{
+    padding-top: 60px;
+    max-width: 1200px;
+    float: left;
+    height: 500px
+}
+
+
+div.card5{
+    margin: 80px;
+}
+div.card5 h2{
+    padding-top: 100px;
+    font-size: 50px;
+    }
+
+div.card5 p{
+    padding-right: 50%;
+    padding-top: 60px;
+    font-size: 35px;
+}
+
+div.card5 img{
+    padding-top: 60px;
+    max-width: 1200px;
+    float: right;
+    height: 500px
+    
+}
+
+footer {
+    
+    background-color:#99896F ;
+    padding: 5%;
+    font-size: 40px;
+}
